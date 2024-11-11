@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RedPoleTech's Abteilung für PC Bau und Beratung</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>RedPoleTech's Abteilung für PC Bau und Beratung</h1>
+        <p>Seite in Bearbeitung/wird erstellt</p>
+        <p>Falls Sie einen PC nach Ihren Wünschen möchten, schreiben Sie bitte an <a href="mailto:Redpoletech@web.de">Redpoletech@web.de</a>.</p>
+        <p>Mit freundlichen Grüßen,<br>
+        Ihr RedPoleTech-Team aus der PC Abteilung</p>
+    </div>
+</body>
+</html>
